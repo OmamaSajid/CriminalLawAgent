@@ -1,6 +1,8 @@
 # Criminal Law Agent
+⚖️ **Enjoy having your own AI-powered criminal law assistant!**  
 
 An AI-powered agent for criminal law research and question answering using Astra DB and a custom LLM-based pipeline.
+
 
 ## Features
 
@@ -18,7 +20,7 @@ An AI-powered agent for criminal law research and question answering using Astra
 - LLM API key (e.g., OpenAI, Anthropic)
 - `pip` or `poetry` for dependency management
 ##INSTALLATION:
-git clone https://github.com/yourusername/criminal-law-agent.git
+git clone https://github.com/OmamaSajid/CriminalLawAgent.git
 cd criminal-law-agent
 pip install -r requirements.txt
 # or
